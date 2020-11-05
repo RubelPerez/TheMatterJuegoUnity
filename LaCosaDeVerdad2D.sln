@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaCosaDeVerdad2D.CSharp", "LaCosaDeVerdad2D.CSharp.csproj", "{4CD655E9-3A1F-B5C6-CF54-E896AD67BAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaCosaDeVerdad2D.CSharp.Editor", "LaCosaDeVerdad2D.CSharp.Editor.csproj", "{85F3178F-4A66-D8B9-AF56-F1A7A72A516E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD655E9-3A1F-B5C6-CF54-E896AD67BAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD655E9-3A1F-B5C6-CF54-E896AD67BAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD655E9-3A1F-B5C6-CF54-E896AD67BAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD655E9-3A1F-B5C6-CF54-E896AD67BAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F3178F-4A66-D8B9-AF56-F1A7A72A516E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F3178F-4A66-D8B9-AF56-F1A7A72A516E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F3178F-4A66-D8B9-AF56-F1A7A72A516E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F3178F-4A66-D8B9-AF56-F1A7A72A516E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
